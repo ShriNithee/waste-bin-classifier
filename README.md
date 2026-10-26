@@ -97,11 +97,6 @@ This model answers that question from a single photo.
 - **Class imbalance**: clothes has ~5,300 images while brown-glass has ~600. Class weighting is a planned improvement.
 - **Real-world gap**: on a real photo outside the dataset, the model predicted plastic with 68% confidence. Testing on real Indian household waste is the next step.
 
-<!-- Add your screenshots to a results/ folder and uncomment these lines:
-![Accuracy and loss curves](results/accuracy_plot.png)
-![Confusion matrix](results/confusion_matrix.png)
-![Sample prediction](results/sample_prediction.png)
--->
 
 ---
 
